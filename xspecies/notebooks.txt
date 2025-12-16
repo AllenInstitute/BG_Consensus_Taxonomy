@@ -1,0 +1,2 @@
+/allen/programs/celltypes/workgroups/rnaseqanalysis/EvoGen/Team/Matthew/code/HMBA_Genomics/BasalGanglia/xspecies/ap_test.ipynb
+/allen/programs/celltypes/workgroups/rnaseqanalysis/EvoGen/Team/Matthew/code/HMBA_Genomics/BasalGanglia/xspecies/redo_scvi.ipynb
